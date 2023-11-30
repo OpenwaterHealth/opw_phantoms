@@ -1,9 +1,11 @@
 # opw_phantoms
-Openwater Phantoms
+## Phantoms for Optical and Ultrasound Devices
 
 Openwater has developed several phantoms for use with our optical and ultrasound devices. These phantoms are designed to simulate the characteristics of interacting tissue, and have various formulations and mechanical configurations depending on the application. 
 
-See the repo Wiki for detailed information on Optical and Ultrasound phantoms. 
+## Prerequisites and Usage
+
+See the repo Wiki for detailed instructions for preparation and usage of phantoms. 
 
 ## Contributing
 
