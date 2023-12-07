@@ -17,8 +17,8 @@ Recipes and mechanical design data for
 
 We welcome contributions from the community. If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
 
-Before contributing, please read our Contributing Guidelines.
+Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the AGPLv3 License - see the LICENSE file for details.
+This project is licensed under the AGPLv3 License - see the [License](LICENSE.md) file for details.
