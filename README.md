@@ -7,6 +7,12 @@ Openwater has developed several phantoms for use with our optical and ultrasound
 
 See the repo Wiki for detailed instructions for preparation and usage of phantoms. 
 
+## Repository Contents
+Recipes and mechanical design data for 
+- [optical system phantoms](optical)
+- [ultrasound system phantoms](ultrasound_and_AO)
+- [acousto-optic system phantoms](ultrasound_and_AO)
+
 ## Contributing
 
 We welcome contributions from the community. If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
